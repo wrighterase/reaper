@@ -1,5 +1,3 @@
-// use colored::Colorize;
-
 mod linux;
 
 fn main() {
